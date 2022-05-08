@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="321" height="69" src="https://i.imgur.com/bt9pQwk.png">
-</p>
-
 ## 🛠 Usage
 
 - `yarn start`: Run `webpack-dev-server` at `localhost:8080`. Includes live reloading on any Javascript/SCSS/HTML changes.
