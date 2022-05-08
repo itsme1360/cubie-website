@@ -485,8 +485,8 @@ export default function HomePage() {
             <li>
               <ol>
                 <li>Q1 2022</li>
-                <li className="done-alt">$CUBE NFT Contract (TRC-721) Release & Migrations.</li>
-                <li className="done-alt">Platform Website.</li>
+                <li className="done">$CUBE NFT Contract (TRC-721) Release & Migrations.</li>
+                <li className="done">Platform Website.</li>
                 <li>Cubie NFTs Breeding.</li>
               </ol>
             </li>
