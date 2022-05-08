@@ -478,15 +478,15 @@ export default function HomePage() {
                   </a>
                   .
                 </li>
-                <li>$CUBE Token (TRC-20) Release & Sales.</li>
+                <li className="done-alt">$CUBE Token (TRC-20) Release & Sales.</li>
               </ol>
             </li>
 
             <li>
               <ol>
                 <li>Q1 2022</li>
-                <li>$CUBE NFT Contract (TRC-721) Release & Migrations.</li>
-                <li>Platform Website.</li>
+                <li className="done-alt">$CUBE NFT Contract (TRC-721) Release & Migrations.</li>
+                <li className="done-alt">Platform Website.</li>
                 <li>Cubie NFTs Breeding.</li>
               </ol>
             </li>
