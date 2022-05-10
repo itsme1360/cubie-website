@@ -251,7 +251,7 @@ export default function HomePage() {
             <div className="bnc">
               <a href='https://mint.cubie.art/'>
                   <button className="bn">
-                      Click Here
+                      Mint
                   </button>
               </a>
             </div>
