@@ -53,7 +53,7 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
-            <p>Cubie © 2021. All rights reserved.</p>
+            <p>Cubie © 2022. All rights reserved.</p>
           </div>
           <div className="r">
             <ul>
