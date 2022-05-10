@@ -249,7 +249,7 @@ export default function HomePage() {
               </p>
             </div>
             <div className="bnc">
-              <button className="bn" onClick="parent.open('https://mint.cubie.art/')">
+              <button className="bn" onClick={scrollToDiscover}>
                 Discover
               </button>
             </div>
