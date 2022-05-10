@@ -256,6 +256,7 @@ export default function HomePage() {
                   <button className="bn">
                       Click Here
                   </button>
+              </a>
             </div>
           </div>
           <div className="rght">
