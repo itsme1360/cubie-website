@@ -88,7 +88,7 @@ export default function Header() {
           </li>
           <li>
             <Tooltip label="Coming soon..." fontSize="md" rounded="md" px="4" py="2" bg="white" color="black">
-              <RouterLink to="https://mint.cubie.art/" title="Connect" className="hl">
+              <RouterLink to="#" title="Connect" className="hl">
                 Connect
               </RouterLink>
             </Tooltip>
