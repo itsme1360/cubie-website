@@ -253,7 +253,7 @@ export default function HomePage() {
                 Discover
               </button>
               <a href='https://mint.cubie.art/'>
-                  <button class="bn">
+                  <button className="bn">
                       Click Here
                   </button>
             </div>
