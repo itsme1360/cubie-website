@@ -52,7 +52,7 @@ export default function CubiesPage() {
                   <div className="tx">
                     <span href="#">{cubie.name}</span>
                     <address></address>
-                    <div className="price">{cubie.price} Power</div>
+                    <div className="price">{cubie.price} TRX</div>
                   </div>
                 </a>
               );
