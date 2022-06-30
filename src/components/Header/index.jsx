@@ -77,7 +77,7 @@ export default function Header() {
           <li>
             <Tooltip label="Coming soon..." fontSize="md" rounded="md" px="4" py="2" bg="black">
               <RouterLink to="#" title="Breed">
-                Breed
+                Mining
               </RouterLink>
             </Tooltip>
           </li>
