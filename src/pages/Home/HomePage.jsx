@@ -475,8 +475,8 @@ export default function HomePage() {
                 </li>
                 <li className="done-alt">
                   Partnership with{' '}
-                  <a href="https://www.locklet.finance" target="_blank" style={{ fontWeight: 'bold' }}>
-                    Locklet
+                  <a href="https://turuglobal.com/baby-turu/" target="_blank" style={{ fontWeight: 'bold' }}>
+                    BabyTuru
                   </a>
                   .
                 </li>
