@@ -489,7 +489,7 @@ export default function HomePage() {
                 <li>Q1 2022</li>
                 <li className="done">$CUBE NFT Contract (TRC-721) Release & Migrations.</li>
                 <li className="done">Platform Website.</li>
-                <li>Cubie NFTs Breeding.</li>
+                <li className="done">Cubie Mining.</li>
               </ol>
             </li>
 
