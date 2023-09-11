@@ -496,9 +496,9 @@ export default function HomePage() {
             <li>
               <ol>
                 <li>Q2 2022</li>
-                <li>Governance Launch.</li>
+                <li className="done">First Cubie Games.</li>
+                <li className="done">TNFT Maker Launch.</li>
                 <li>Mystery Box Integration.</li>
-                <li>First Cubie Games.</li>
               </ol>
             </li>
           </ul>
