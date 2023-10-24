@@ -249,7 +249,7 @@ export default function HomePage() {
               </p>
             </div>
             <div className="bnc">
-              <a href='https://mint.cubie.art/' target="_blank">
+              <a href='https://mint.cubie.xyz/' target="_blank">
                   <button className="bn">
                       Mint
                   </button>
